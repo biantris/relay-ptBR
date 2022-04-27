@@ -4,6 +4,9 @@
 
 🚧 WIP 🚧
 
+### Tools
+- [Docusaurus](https://docusaurus.io/)
+
 ### Motivação
 Tentei enviar uma tradução pt-BR para o repositório oficial do Relay, mas não foi atendida, então por meio deste irei criar uma documentação mais amigável e em português para ajudar os devs brasileiros que desejam usar o Relay.
 
