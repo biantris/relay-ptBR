@@ -1,5 +1,5 @@
 ## Relay pt-BR
----
+
 #### Uma doc não official do Relay em Português do Brasil, baseada na versão oficial [Relay](https://relay.dev/docs/)
 
 🚧 WIP 🚧
